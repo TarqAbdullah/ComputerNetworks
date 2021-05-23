@@ -13,3 +13,7 @@ Here are projects where I have implemented different protocols in Packet Tracer,
 **NAT:**
 
 ![image](https://user-images.githubusercontent.com/49244752/119275566-82892980-bc1e-11eb-9b9f-470327b8d9d8.png)
+
+**RIPv2:**
+
+![image](https://user-images.githubusercontent.com/49244752/119275613-c54b0180-bc1e-11eb-8e86-99c8811ac343.png)
