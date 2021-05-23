@@ -4,6 +4,10 @@ Here are projects where I have implemented different protocols in Packet Tracer,
 
 **IPv4:**
 
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/49244752/113150419-bb1f0f00-923c-11eb-80e7-0ce0f774c150.png">
+</p>
+
 ![image](https://user-images.githubusercontent.com/49244752/113150419-bb1f0f00-923c-11eb-80e7-0ce0f774c150.png)
 
 **IPv6:**
