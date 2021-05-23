@@ -1,4 +1,4 @@
-Here are two projects where I have implemented both IPv4 and IPv6 in Packet Tracer, a screenshot of those projects are uploaded to see the configuration of such projects. 
+Here are projects where I have implemented different protocols in Packet Tracer, a screenshot of those projects are uploaded to see the configuration of such projects. 
 
 🖧 These projects support DNS, DHCP, HTTP, and EMAIL services, they are implemented with security best practices. :shield:
 
@@ -9,3 +9,6 @@ Here are two projects where I have implemented both IPv4 and IPv6 in Packet Trac
 **IPv6:**
 
 ![image](https://user-images.githubusercontent.com/49244752/113150580-e7d32680-923c-11eb-88bb-2822577bd8fb.png)
+
+**NAT:**
+![image](https://user-images.githubusercontent.com/49244752/119275566-82892980-bc1e-11eb-9b9f-470327b8d9d8.png)
